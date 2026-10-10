@@ -1,0 +1,8 @@
+Category,Total_Revenue,Avg_Order_Value,Order_Count,Total_Profit,Qty_Sold,Profit_Margin_%
+Electronics,1033200,2408.39,429,413280.0,1697,40.0
+Peripherals,278600,1436.08,194,111440.0,796,40.0
+Accessories,178180,310.96,573,71272.0,2399,40.0
+Audio,173360,434.49,399,69344.0,1530,40.0
+Mobile,98605,123.72,797,39442.0,3267,40.0
+Office Supplies,46098,117.6,392,18439.2,1593,40.0
+Cables,17240,79.81,216,6896.0,862,40.0
